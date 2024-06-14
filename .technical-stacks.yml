@@ -1,3 +1,5 @@
 techstack:
   application:
     - release:47.8
+    - QA_test:8.0
+
